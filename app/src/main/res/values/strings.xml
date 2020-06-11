@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App Guardian</string>
+    <string name="internet_error">Sem conexão com a internet.
+        \nTente novamente depois de checar sua conexão.</string>
+    <string name="content_error">Nenhuma notícia disponível.
+        \nVocê está sem conexão com a internet.
+        \nCheque sua conexão e tente novamente</string>
+</resources>
